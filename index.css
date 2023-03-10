@@ -1,0 +1,138 @@
+body{
+    background-image: url("./hand-painted-watercolor-pastel-sky-background_52683-60299.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.container1{
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    padding:20px;
+border:5px solid green;
+flex-wrap: wrap;
+justify-content: flex-start;
+align-items:first baseline;
+}
+.item{
+    height: 75px;
+    width: 200px;
+    background-color: black;
+    color: aliceblue;
+    border: 5px solid red;
+    border-radius: 25px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 20px;
+ 
+}
+.item1{
+    height: 60px;
+    width: 300px;
+    text-align: center;
+    margin-top: 5px;
+}
+.item2{
+    height: 25px;
+    width: 300px;
+margin-left: 180px;
+position: absolute;
+margin-top: -98px;
+
+}
+.item3{
+    margin-top: -100px;
+    padding-top: 48px;
+    height: 50px;
+    width: 300px;
+    margin-left: 900px;
+}
+
+.round{
+    background-color: rgb(4, 143, 143);
+    border: 5px solid darkgray ;
+    border-radius: 50%;
+    height: 275px;
+    width: 275px;
+    text-align:center;
+    justify-content: center;
+    margin:100px;
+    margin-top: 250px;
+}
+.h3{
+    padding: 10px;
+}
+.form{
+    display: flex;
+    background-color: white;
+    border: dashed  red; 
+   justify-content: center;
+    flex-direction: column;
+padding: 10px;
+color: red;
+position: absolute;
+top: 200px;
+right:300px;
+
+
+text-align: center;
+}
+.rf{
+    posi
+    align-self:center; 
+}
+.menu{
+    background-color: black;
+    border: 5px solid red;
+    height: 50px;
+    width: 200px;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 25px;
+    justify-content: center;
+    align-items: center;
+  padding-bottom: 25px;
+  position: absolute;
+  bottom: -240px;
+  right: 50%;
+  margin-right: -50px;
+  margin-bottom: 25px;
+}
+.line{
+    width: 1290px;
+    margin-top: 70px;
+
+}
+.box{
+    display: block;
+    padding-top: 20px;
+    padding-left: 250px;
+    margin-top: 10px;
+    align-content: space-between;
+}
+.bx1{
+    display: flex;  
+    border-bottom: 180px;
+    margin-top: 10px;
+flex-wrap: wrap;
+align-items: flex-end;
+
+}
+.bx2{
+    display: flex;
+    border-bottom: 180px;
+    margin-top: 10px;
+flex-wrap: wrap;
+align-items: flex-end;
+}
+.box1{
+    border: 1px solid green;
+    border-radius: 25px;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+    height: 250px;
+    width: 200px;
+    margin: 20px;  
+}
